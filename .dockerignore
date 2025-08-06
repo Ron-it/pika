@@ -1,0 +1,49 @@
+# Dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Next.js build output
+.next
+out
+
+# Version control
+.git
+.gitignore
+
+# Documentation
+README.md
+license.md
+
+# Development and configuration files
+.env*.local
+.eslintrc.json
+.prettierrc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Test files
+coverage
+.nyc_output
+jest.config.js
+__tests__
+__mocks__
+
+# Docker files
+Dockerfile*
+docker-compose*
+.dockerignore
+
+# GitHub
+.github
